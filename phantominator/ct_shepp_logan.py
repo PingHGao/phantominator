@@ -20,8 +20,8 @@ def ct_shepp_logan(
         columns of E are:
 
             - Gray value of the ellipse (in [0, 1])
-            - Length of the horizontal semiaxis of the ellipse
-            - Length of the vertical semiaxis of the ellipse
+            - Length of the horizontal axis of the ellipse (in [0, 1])
+            - Length of the vertical axis of the ellipse (in [0, 1])
             - x-coordinate of the center of the ellipse (in [-1, 1])
             - y-coordinate of the center of the ellipse (in [-1, 1])
             - Angle between the horizontal semiaxis of the ellipse
